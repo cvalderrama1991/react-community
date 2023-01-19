@@ -1,0 +1,5 @@
+export { default as HeaderLogo } from "./header-logo.svg"
+export { default as ButtonHover } from "./button-hover.svg"
+export { default as ReactLogo } from "./react-logo.svg"
+export { default as ReactLogoInside } from "./react-logo-inside.svg"
+export { default as ReactLogoOutside } from "./react-logo-outside.svg"
